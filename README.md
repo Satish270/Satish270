@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Satish270
-- 👀 I’m interested in ethical hacking 
+- 👀 I’m interested in AI & ML
 - 🌱 I’m currently trying to learn
-- 💞️ I’m looking for ethical hackers who can teach me
-- 📫 How to reach me mail me self63877@gmail.com
+- 💞️ I’m looking for AI & ML Engineers who can teach me
+- 📫 How to reach me mail me satishkoro04@gmail.com
 - 
 
 <!---
